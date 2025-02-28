@@ -4,6 +4,8 @@
 
 This project leverages PySpark, Python, and Databricks to analyze sales data and extract meaningful insights. The primary focus is on customer segmentation, revenue trends, and churn analysis to enhance business decision-making.
 
+Dataset Link: https://archive.ics.uci.edu/ml/datasets/Online+Retail 
+
 ## Tech Stack
 
 PySpark: For distributed data processing and analysis.
